@@ -1,7 +1,7 @@
 
 # react-spike
 
-Practising react
+Practising react. File structure created with gh slush react
 
 ## how
 
